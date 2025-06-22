@@ -35,14 +35,14 @@ Latest version of the OLX app must be used
 )
 
 1.1.3 Exit criteria defined
-(Messages are delivered instantly to the other user
-Status updates ("Sent", "Delivered", "Read") reflect accurately
-Typing indicators display in real time
-Offline messages are received when the user reconnects.
-Messages can be searched by keyword and are highlighted or listed correctly.
-Chat history remains intact after logout and re-login.
-Blocked users cannot send messages; attempted messages are not delivered.
-Deleted chats are removed from the chat list and message history is wiped.
+(Messages are delivered instantly to the other user,
+Status updates ("Sent", "Delivered", "Read") reflect accurately,
+Typing indicators display in real time,
+Offline messages are received when the user reconnects,
+Messages can be searched by keyword and are highlighted or listed correctly,
+Chat history remains intact after logout and re-login,
+Blocked users cannot send messages; attempted messages are not delivered,
+Deleted chats are removed from the chat list and message history is wiped,
 Push notifications are sent and received as expected when a new message arrives.
 )
 
@@ -73,20 +73,20 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
 
-(The user can create with succesfull an announcement
-An error is shown when title and description are missing
-The user can upload an image for announcement
-The user can filter Announcements by category
-The user can edit an existing announcement
-An error is shown when category and city are missing
-An error is shown when contact person is missing
-The user can deactivate an announcement
-The user can acces the statistics
-The user can access multiple announcements of a certain person
-A message sent by one user appears instantly for the other user)
+(The user can create with succesfull an announcement,
+An error is shown when title and description are missing,
+The user can upload an image for announcement,
+The user can filter Announcements by category,
+The user can edit an existing announcement,
+An error is shown when category and city are missing,
+An error is shown when contact person is missing,
+The user can deactivate an announcement,
+The user can acces the statistics,
+The user can access multiple announcements of a certain person,
+A message sent by one user appears instantly for the other user.)
 
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Proiect_Popescu David]([inserati linkul catre fisierul cu testele, in format pdf, word sau csv](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/Proiect_Popescu%20David.docx)
 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
