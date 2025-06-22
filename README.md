@@ -22,10 +22,10 @@ The plan identifies the items to be tested, the features to be tested, the types
 
 1.1.1. Roles asigned to the project and persons allocated
 
-Project manager Fabian Cojocaru
-Product owner Ionut Cheran
-Software developer Alexandru Bucur
-QA Engineer Popescu David 
+Project manager Fabian Cojocaru,
+Product owner Ionut Cheran,
+Software developer Alexandru Bucur,
+QA Engineer Popescu David
 1.1.2 Entry criteria defined
 ( User must be logged into the OLX application
 Both User A and User B must be registered and logged in (for chat-related scenarios)
