@@ -104,8 +104,7 @@ Full regression testing is needed on the impacted areas after the bugs are fixed
 
 ## 1.7 Test Completion
 As the Exit criteria were met and satisfied as mentioned in the appropriate section, this feature is suggested to ‘Go Live’ by the Testing team
-The traceability matrix was generated and can be found here: (inserati aici fie o poza cu matricea de trasabilitate din jira, fie linkul catre fiserul excel exportat din jira cu matricea de trasabilitate. Nu uitati sa faceti filtrare dupa type = story)
-
+The traceability matrix was generated and can be found here: [matrice trasabilitate](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/matricea%20de%20trasabilitate.png)
 Test execution chart was generated and can be found below.
 
 (inserati aici raportul de executie generat din jira din sectiunea de dashboards)
