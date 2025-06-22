@@ -73,7 +73,17 @@ The testing process will be executed based on the application requirements.
 
 The following test conditions were found:
 
-(aici puteti fie sa puneti o poza din jira cu titlurile tuturor testelor - din issues filtrare dupa type test sau sa scrieti cu bulinuta numele fiecarei conditii de testare pe care ati identificat-o)
+(The user can create with succesfull an announcement
+An error is shown when title and description are missing
+The user can upload an image for announcement
+The user can filter Announcements by category
+The user can edit an existing announcement
+An error is shown when category and city are missing
+An error is shown when contact person is missing
+The user can deactivate an announcement
+The user can acces the statistics
+The user can access multiple announcements of a certain person
+A message sent by one user appears instantly for the other user)
 
 ## 1.4 Test Design
 Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here (inserati linkul catre fisierul cu testele, in format pdf, word sau csv)
