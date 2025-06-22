@@ -65,7 +65,7 @@ Product risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ## 1.2 Test Monitoring and Control
-(Motivul pentru care există etapa de monitorizare și control în testarea software este acela de a asigura că activitățile de testare se desfășoară conform planului, să identifice devierile și să permită luarea de măsuri corective în timp util). Aici veti insera de asemenea si raportul de status (test status report) din zephyr [test metrics](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/test%20metrics.png)
+(Motivul pentru care există etapa de monitorizare și control în testarea software este acela de a asigura că activitățile de testare se desfășoară conform planului, să identifice devierile și să permită luarea de măsuri corective în timp util). [test status report/test summary](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/testreportsummary.png) [test metrics](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/test%20metrics.png)
 The testing process will be executed based on the application requirements. 
 
 The following test conditions were found:
