@@ -91,14 +91,14 @@ Functional test cases were created in Zephyr Squad based on the analysis of the 
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
-(inserati lista de elemente care sunt evaluate in etapa de implementare)
+(Se creează datele de testare, se grupează testele în funcție de importanța față de business și respectiv de riscuri și organizarea lor în suite de testare, crearea unui program de execuție a testelor).
 
 ## 1.6. Test Execution
-Test cases are executed on the created test Cycle summary: (inserati aici numele cycle-ului pe care l-ati creat)
+Test cases are executed on the created test Cycle summary: (Cycle Summary)
 
-Bugs have been created based on the failed tests. The complete bug reports can be found here: (inserati aici fisierul cu bug-urile pe care le-ati identificat)
+Bugs have been created based on the failed tests. The complete bug reports can be found here: [bugs](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/Bugs.docx)
 
-The following is a summary of the bugs that have been found (inserati o lista cu titlurile bug-urilor identificate impreuna cu prioritatea si severitatea fiecaruia)
+The following is a summary of the bugs that have been found (#1 căutarea nu evidențiază cuvinte, severitate medie, #2 utilizatorul blocat poate trimite mesaje, severitate critică, #3 istoricul chat-ului nu se reîncarcă dupa reconectare, severitate critică. )
 
 Full regression testing is needed on the impacted areas after the bugs are fixed and retesting will be done for every functionality that was previously failed.
 
