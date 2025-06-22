@@ -110,14 +110,14 @@ Test execution chart was generated and can be found below.
 
 (inserati aici raportul de executie generat din jira din sectiunea de dashboards)
 
-The final report shows that a number (inserati nu) tests have failed of a total of (inserati numarul de teste)
+The final report shows that a number (3) tests have failed of a total of (17)
 
-A number of (inserati numarul de bug-uri) total bugs were found, from which the priority is: (inserati numarul de bug-uri) are high and (inserati numarul de bug-uri) are medium.
+A number of (3) total bugs were found, from which the priority is: (2) are high and (1) are medium.
 
 (Concluziile în urma testării sunt următoarele:
 11 user stories,
 20 test cases,
 2 epics,
-3 bug-uri, dintre care #1 bug ( căutarea nu evidențiază cuvinte ) are ca și severitate medie, iar ca și impact deranjează experiența, dar nu împiedică comunicarea, #2 ( utilizatorul blocat poate trimite mesaje ) are ca și severitate majoră, iar ca și impact afectează încrederea, posibil abuz/spam, #3 ( istoricul chat-ului nu se reîncarcă dupa reconectare ) are ca și severitate critică, iar ca și impact utilizatorul pierde complet accesul la conversații, afectează funcționalitatea de baza.
+3 bug-uri, dintre care #1 bug ( căutarea nu evidențiază cuvinte ) are ca și severitate medie, iar ca și impact deranjează experiența, dar nu împiedică comunicarea, #2 ( utilizatorul blocat poate trimite mesaje ) are ca și severitate critică, iar ca și impact afectează încrederea, posibil abuz/spam, #3 ( istoricul chat-ului nu se reîncarcă dupa reconectare ) are ca și severitate critică, iar ca și impact utilizatorul pierde complet accesul la conversații, afectează funcționalitatea de baza.
 .)
 
