@@ -10,5 +10,5 @@ The below story was created in Jira and describes the functional specifications 
 
 Here you can find the release that was created for this project:
 
-[Git repo screenshoot](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/release.png)
+[Release](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/release.png)
 
