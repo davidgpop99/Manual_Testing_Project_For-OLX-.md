@@ -52,14 +52,14 @@ Tests in scope:
 , Verify if the user can upload an image for announcement, Check if the user can filter Announcements by category, Verify if the user can edit an existing announcement, Verify that an error is shown when category and city are missing, Verify that an error is shown when contact person is missing, Verify if the user can deactivate an announcement, Check if the user can acces the statistics, Check if the user can access multiple announcements of a certain person, Verify that a message sent by one user appears instantly for the other user, Check the typing indicator is shown when a user is typing, Check that the message shows "Sent," "Delivered," and "Read" statuses correctly, Check that messages sent while one user is offline appear when they come online, Check that push notifications are triggered on receiving a new message, Verify image or file can be sent via chat, Verify chat can be deleted by the user, Verify chat history is retained after logout and re-login, Verify blocked user cannot send messages, Verify user can search messages in a chat thread.)
 
 Tests not in scope:
-(descrieti aici toate testele pe care NU intentionati sau nu puteti sa le faceti. Puteti include functionalitati din aplicatie, tipuri sau tehnici de testare, dispozitive pe care veti testa etc)
+(All tests covering the registration, login, and password recovery processes, assuming these features function optimally)
 
 1.1.5 Risks detected
 Project risks:
-(enumerati aici toate riscurile de proiect pe care le-ati identificat pentru proiectul vostru)
+(Lipsa criteriilor detaliate de acceptare, Dependența critică de conexiunea la internet, Distribuție neuniformă a testării între module)
 
 Product risks:
-(enumerati aici toate riscurile de produs pe care le-ati identificat pentru proiectul vostru)
+(Indicatorii de livrare și citire funcționează incorect, Funcționalitatea de blocare ineficientă, Căutarea în chat nefuncțională sau incompletă, Lipsa notificărilor sau notificări întârziate)
 
 1.1.6 Evaluating entry criteria
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
