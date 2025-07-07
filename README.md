@@ -113,10 +113,5 @@ The final report shows that a number (3) tests have failed of a total of (17)
 
 A number of (3) total bugs were found, from which the priority is: (2) are high and (1) are medium.
 
-(Concluziile în urma testării sunt următoarele:
-11 user stories,
-20 test cases,
-2 epics,
-3 bug-uri, dintre care #1 bug ( căutarea nu evidențiază cuvinte ) are ca și severitate medie, iar ca și impact deranjează experiența, dar nu împiedică comunicarea, #2 ( utilizatorul blocat poate trimite mesaje ) are ca și severitate critică, iar ca și impact afectează încrederea, posibil abuz/spam, #3 ( istoricul chat-ului nu se reîncarcă dupa reconectare ) are ca și severitate critică, iar ca și impact utilizatorul pierde complet accesul la conversații, afectează funcționalitatea de baza.
-.)
+(The conclusions from the testing are as follows: 11 user stories, 20 test cases, 2 epics, 3 bugs, of which #1 bug (search does not highlight words) has a medium severity, and as an impact it disturbs the experience, but does not prevent communication, #2 (blocked user can send messages) has a critical severity, and as an impact it affects trust, possible abuse/spam, #3 (chat history does not reload after reconnecting) has a critical severity, and as an impact the user completely loses access to conversations, affects basic functionality. .)
 
