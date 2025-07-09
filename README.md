@@ -123,7 +123,8 @@ As the Exit criteria were met and satisfied as mentioned in the appropriate sect
 The traceability matrix was generated and can be found here: [matrice trasabilitate](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/matricea%20de%20trasabilitate.png)
 Test execution chart was generated and can be found below.
 
-[execution](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/cycle%20summary.png)
+![image](https://github.com/user-attachments/assets/13f9e821-4b28-4f10-a2fd-d6bdc6f681a0)
+
 
 The final report shows that a number (3) tests have failed of a total of (17)
 
