@@ -5,27 +5,42 @@ Application under test: OLX
 
 Tools used: Jira, Zephyr Squad.
 
-# Functional specifications
+## Functional specifications
 The below story was created in Jira and describes the functional specifications of the "olx_modul" module, for which the final project is performed upon.
 
 Here you can find the release that was created for this project:
 
 [Release](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/release.png)
 
-# Testing process
+## Testing process
 The test process was performed based on the standard test process as described below.
 
-1.1 Test planning
+### 1.1 Test planning
 The Test Plan is designed to describe all details of testing for all the modules from the JPetStore Demo application.
 
 The plan identifies the items to be tested, the features to be tested, the types of testing to be performed, the personnel responsible for testing, the resources and schedule required to complete testing, and the risks associated with the plan. The test plan that was created for this project can be found here (inserati link catre documentul cu planul de testare)
 
-1.1.1. Roles asigned to the project and persons allocated
+#### 1.1.1. Roles asigned to the project and persons allocated
 
-Project manager Fabian Cojocaru,
-Product owner Ionut Cheran,
-Software developer Alexandru Bucur,
-QA Engineer Popescu David
+<table>
+  <tr>
+    <td>Project manager</td>
+    <td>Fabian Cojocaru</td>
+  </tr>
+<tr>
+  <td>Product Owner</td>
+  <td>Ionut Cheran</td>
+</tr>
+  <tr>
+  <td>Software developer</td>
+  <td>Alexandru Bucur</td>
+</tr>
+<tr>
+  <td>QA Engineer</td>
+  <td>Popescu David</td>
+</tr>
+</table>
+
 1.1.2 Entry criteria defined
 ( User must be logged into the OLX application
 Both User A and User B must be registered and logged in (for chat-related scenarios)
@@ -65,9 +80,11 @@ Product risks:
 The entry criteria defined in the Test Planning phase have been achieved and the test process can continue.
 
 ## 1.2 Test Monitoring and Control
-(Motivul pentru care există etapa de monitorizare și control în testarea software este acela de a asigura că activitățile de testare se desfășoară conform planului, să identifice devierile și să permită luarea de măsuri corective în timp util). [test status report/test summary](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/testreportsummary.png) 
+Motivul pentru care există etapa de monitorizare și control în testarea software este acela de a asigura că activitățile de testare se desfășoară conform planului, să identifice devierile și să permită luarea de măsuri corective în timp util. 
 
-[test metrics](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/test%20metrics.png)
+![image](https://github.com/user-attachments/assets/8f8107c7-4e29-41ef-b871-a89083436914)
+
+
 
 The testing process will be executed based on the application requirements. 
 
