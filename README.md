@@ -103,8 +103,7 @@ The user can access multiple announcements of a certain person,
 A message sent by one user appears instantly for the other user.)
 
 ## 1.4 Test Design
-Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed here [Proiect_Popescu David](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/Proiect_Popescu%20David.docx)
-
+Functional test cases were created in Zephyr Squad based on the analysis of the specifications. The test cases can be accessed [Here](https://github.com/davidgpop99/Manual_Testing_Project_For-OLX-.md/blob/main/ZFJ-Cycles-07-09-2025.csv)
 ## 1.5 Test Implementation
 The following elements are needed to be ready before the test execution phase begins:
 
